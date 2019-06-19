@@ -1,0 +1,1120 @@
+[
+	{
+		"IdAlbum": 1,
+		"Titulo": "Nevermind",
+		"Genero": "Rock",
+		"Artista": "Nirvana",
+		"Portada": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/Nevermind_portada.jpg",
+		"listaCanciones": [
+			{
+				"NombreCancion": "Breed",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/Breed.m3u8"
+			},
+			{
+				"NombreCancion": "Come as you are",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/come_as_you_are.m3u8"
+			},
+			{
+				"NombreCancion": "Drain you",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/drain_you.m3u8"
+			},
+			{
+				"NombreCancion": "In bloom",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/in_bloom"
+			},
+			{
+				"NombreCancion": "Lithium",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/lithium.m3u8"
+			},
+			{
+				"NombreCancion": "Lounge Act",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/lounge_act.m3u8"
+			},
+			{
+				"NombreCancion": "On a plain",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/on_a_plain.m3u8"
+			},
+			{
+				"NombreCancion": "Polly",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/polly.m3u8"
+			},
+			{
+				"NombreCancion": "Smells like teen spirit",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/smells_like_teen_spirit.m3u8"
+			},
+			{
+				"NombreCancion": "Something in the way",
+				"Link": "http://192.168.56.1:8080WebServicess/albums/Nevermind/something_in_the_way.m3u8"
+			},
+			{
+				"NombreCancion": "Stay Away",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/stay_away.m3u8"
+			}
+		]
+	},
+	{
+		"IdAlbum": 2,
+		"Titulo": "Adromicfms 4",
+		"Genero": "Trap",
+		"Artista": "Yung Beef",
+		"Portada": "http://192.168.56.1:8080/WebServicess/albums/Adromicfms 4/yung beef.jpg",
+		"listaCanciones": [
+			{
+				"NombreCancion": "ANDROMICFMS",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/Breed.m3u8"
+			},
+			{
+				"NombreCancion": "Articuno",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/come_as_you_are.m3u8"
+			},
+			{
+				"NombreCancion": "Straight outta compton",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/drain_you.m3u8"
+			},
+			{
+				"NombreCancion": "Tengo dinero e la ola",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/in_bloom"
+			},
+			{
+				"NombreCancion": "Rosas azules",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/lithium.m3u8"
+			},
+			{
+				"NombreCancion": "Young Beef",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/lounge_act.m3u8"
+			},
+			{
+				"NombreCancion": "Brazy",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/on_a_plain.m3u8"
+			},
+			{
+				"NombreCancion": "La zowy",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/polly.m3u8"
+			},
+			{
+				"NombreCancion": "33",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/smells_like_teen_spirit.m3u8"
+			},
+			{
+				"NombreCancion": "sexo en la playa",
+				"Link": "http://192.168.56.1:8080WebServicess/albums/Nevermind/something_in_the_way.m3u8"
+			},
+			{
+				"NombreCancion": "Nos fuimos lejos",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/stay_away.m3u8"
+			}
+		]
+	},
+	{
+		"IdAlbum": 3,
+		"Titulo": "Born in the wrong decade",
+		"Genero": "Pop",
+		"Artista": "Bruno Mars",
+		"Portada": "http://192.168.56.1:8080/WebServicess/albums/Born in the wrong decade/bruno mars.jpg",
+		"listaCanciones": [
+			{
+				"NombreCancion": "the lazy song",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/Breed.m3u8"
+			},
+			{
+				"NombreCancion": "24k",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/come_as_you_are.m3u8"
+			},
+			{
+				"NombreCancion": "Magic",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/drain_you.m3u8"
+			},
+			{
+				"NombreCancion": "The world",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/in_bloom"
+			},
+			{
+				"NombreCancion": "The hood",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/lithium.m3u8"
+			},
+			{
+				"NombreCancion": "Just the way are",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/lounge_act.m3u8"
+			},
+			{
+				"NombreCancion": "Versace in the floor",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/on_a_plain.m3u8"
+			},
+			{
+				"NombreCancion": "it will rain",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/polly.m3u8"
+			},
+			{
+				"NombreCancion": "i",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/smells_like_teen_spirit.m3u8"
+			},
+			{
+				"NombreCancion": "Marry you",
+				"Link": "http://192.168.56.1:8080WebServicess/albums/Nevermind/something_in_the_way.m3u8"
+			},
+			{
+				"NombreCancion": "Gorilla",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/stay_away.m3u8"
+			}
+		]
+	
+	},
+	{
+		"IdAlbum": 4,
+		"Titulo": "Completely Well",
+		"Genero": "Blues",
+		"Artista": "B.B. King",
+		"Portada": "http://192.168.56.1:8080/WebServicess/albums/Completely Well/bb king.jpg",
+		"listaCanciones": [
+			{
+				"NombreCancion": "a",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/Breed.m3u8"
+			},
+			{
+				"NombreCancion": "b",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/come_as_you_are.m3u8"
+			},
+			{
+				"NombreCancion": "b",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/drain_you.m3u8"
+			},
+			{
+				"NombreCancion": "c",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/in_bloom"
+			},
+			{
+				"NombreCancion": "t",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/lithium.m3u8"
+			},
+			{
+				"NombreCancion": "ty",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/lounge_act.m3u8"
+			},
+			{
+				"NombreCancion": "g",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/on_a_plain.m3u8"
+			},
+			{
+				"NombreCancion": "h",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/polly.m3u8"
+			},
+			{
+				"NombreCancion": "i",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/smells_like_teen_spirit.m3u8"
+			},
+			{
+				"NombreCancion": "Something in the way",
+				"Link": "http://192.168.56.1:8080WebServicess/albums/Nevermind/something_in_the_way.m3u8"
+			},
+			{
+				"NombreCancion": "Stay Away",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/stay_away.m3u8"
+			}
+		]
+	
+	},
+	{
+		"IdAlbum": 5,
+		"Titulo": "The Way of the Samurai",
+		"Genero": "Hip-Hop",
+		"Artista": "Ghost Dog",
+		"Portada": "http://192.168.56.1:8080/WebServicess/albums/The Way of the Samurai/ghos dog.jpg",
+		"listaCanciones": [
+			{
+				"NombreCancion": "z",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/Breed.m3u8"
+			},
+			{
+				"NombreCancion": "x",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/come_as_you_are.m3u8"
+			},
+			{
+				"NombreCancion": "c",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/drain_you.m3u8"
+			},
+			{
+				"NombreCancion": "y",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/in_bloom"
+			},
+			{
+				"NombreCancion": "p",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/lithium.m3u8"
+			},
+			{
+				"NombreCancion": "p",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/lounge_act.m3u8"
+			},
+			{
+				"NombreCancion": "�",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/on_a_plain.m3u8"
+			},
+			{
+				"NombreCancion": "hfdhfdg",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/polly.m3u8"
+			},
+			{
+				"NombreCancion": "idfgdfg",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/smells_like_teen_spirit.m3u8"
+			},
+			{
+				"NombreCancion": "wretwe",
+				"Link": "http://192.168.56.1:8080WebServicess/albums/Nevermind/something_in_the_way.m3u8"
+			},
+			{
+				"NombreCancion": "ghjghj",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/stay_away.m3u8"
+			}
+		]
+	},
+	{
+		"IdAlbum": 6,
+		"Titulo": "Run DMC",
+		"Genero": "Hip-Hop",
+		"Artista": "Run DMC",
+		"Portada": "http://192.168.56.1:8080/WebServicess/albums/Run DMC/run dmc.jpg",
+		"listaCanciones": [
+			{
+				"NombreCancion": "a",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/Breed.m3u8"
+			},
+			{
+				"NombreCancion": "b",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/come_as_you_are.m3u8"
+			},
+			{
+				"NombreCancion": "b",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/drain_you.m3u8"
+			},
+			{
+				"NombreCancion": "c",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/in_bloom"
+			},
+			{
+				"NombreCancion": "t",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/lithium.m3u8"
+			},
+			{
+				"NombreCancion": "ty",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/lounge_act.m3u8"
+			},
+			{
+				"NombreCancion": "g",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/on_a_plain.m3u8"
+			},
+			{
+				"NombreCancion": "h",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/polly.m3u8"
+			},
+			{
+				"NombreCancion": "i",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/smells_like_teen_spirit.m3u8"
+			},
+			{
+				"NombreCancion": "Something in the way",
+				"Link": "http://192.168.56.1:8080WebServicess/albums/Nevermind/something_in_the_way.m3u8"
+			},
+			{
+				"NombreCancion": "Stay Away",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/stay_away.m3u8"
+			}
+		]
+	
+	},
+	{
+		"IdAlbum": 7,
+		"Titulo": "Nightmare in A-Minor",
+		"Genero": "Hip-Hop",
+		"Artista": "Gravedigaz",
+		"Portada": "http://192.168.56.1:8080/WebServicess/albums/Nightmare in A-Minor/gravedigaz.jpg",
+		"listaCanciones": [
+			{
+				"NombreCancion": "a",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/Breed.m3u8"
+			},
+			{
+				"NombreCancion": "b",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/come_as_you_are.m3u8"
+			},
+			{
+				"NombreCancion": "b",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/drain_you.m3u8"
+			},
+			{
+				"NombreCancion": "c",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/in_bloom"
+			},
+			{
+				"NombreCancion": "t",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/lithium.m3u8"
+			},
+			{
+				"NombreCancion": "ty",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/lounge_act.m3u8"
+			},
+			{
+				"NombreCancion": "g",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/on_a_plain.m3u8"
+			},
+			{
+				"NombreCancion": "h",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/polly.m3u8"
+			},
+			{
+				"NombreCancion": "i",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/smells_like_teen_spirit.m3u8"
+			},
+			{
+				"NombreCancion": "Something in the way",
+				"Link": "http://192.168.56.1:8080WebServicess/albums/Nevermind/something_in_the_way.m3u8"
+			},
+			{
+				"NombreCancion": "Stay Away",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/stay_away.m3u8"
+			}
+		]
+	
+	},
+	{
+		"IdAlbum": 8,
+		"Titulo": "Sticky Fingers",
+		"Genero": "Rock",
+		"Artista": "Rolling Stones",
+		"Portada": "http://192.168.56.1:8080/WebServicess/albums/Sticky Fingers/rolling stones.jpg",
+		"listaCanciones": [
+			{
+				"NombreCancion": "prueba1",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/Breed.m3u8"
+			},
+			{
+				"NombreCancion": "prueba2",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/come_as_you_are.m3u8"
+			},
+			{
+				"NombreCancion": "prueba3",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/drain_you.m3u8"
+			},
+			{
+				"NombreCancion": "prueba4",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/in_bloom"
+			},
+			{
+				"NombreCancion": "prueba5",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/lithium.m3u8"
+			},
+			{
+				"NombreCancion": "prueba6",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/lounge_act.m3u8"
+			},
+			{
+				"NombreCancion": "prueba7",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/on_a_plain.m3u8"
+			},
+			{
+				"NombreCancion": "prueba8",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/polly.m3u8"
+			},
+			{
+				"NombreCancion": "prueba9",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/smells_like_teen_spirit.m3u8"
+			},
+			{
+				"NombreCancion": "prueba10",
+				"Link": "http://192.168.56.1:8080WebServicess/albums/Nevermind/something_in_the_way.m3u8"
+			},
+			{
+				"NombreCancion": "prueba111",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/stay_away.m3u8"
+			}
+		]
+	
+	},
+	{
+		"IdAlbum": 9,
+		"Titulo": "Evolve",
+		"Genero": "Rock",
+		"Artista": "Imagine Dragons",
+		"Portada": "http://192.168.56.1:8080/WebServicess/albums/Evolve/imagine dragons.jpg",
+			"listaCanciones": [
+			{
+				"NombreCancion": "prueba1",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/Breed.m3u8"
+			},
+			{
+				"NombreCancion": "prueba2",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/come_as_you_are.m3u8"
+			},
+			{
+				"NombreCancion": "prueba3",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/drain_you.m3u8"
+			},
+			{
+				"NombreCancion": "prueba4",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/in_bloom"
+			},
+			{
+				"NombreCancion": "prueba5",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/lithium.m3u8"
+			},
+			{
+				"NombreCancion": "prueba6",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/lounge_act.m3u8"
+			},
+			{
+				"NombreCancion": "prueba7",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/on_a_plain.m3u8"
+			},
+			{
+				"NombreCancion": "prueba8",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/polly.m3u8"
+			},
+			{
+				"NombreCancion": "prueba9",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/smells_like_teen_spirit.m3u8"
+			},
+			{
+				"NombreCancion": "prueba10",
+				"Link": "http://192.168.56.1:8080WebServicess/albums/Nevermind/something_in_the_way.m3u8"
+			},
+			{
+				"NombreCancion": "prueba111",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/stay_away.m3u8"
+			}
+		]
+	},
+	{
+		"IdAlbum": 10,
+		"Titulo": "Forever Man",
+		"Genero": "Rock",
+		"Artista": "Eric Clapton",
+		"Portada": "http://192.168.56.1:8080/WebServicess/albums/Forever Man/eric clpaton.jpg",
+			"listaCanciones": [
+			{
+				"NombreCancion": "prueba1",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/Breed.m3u8"
+			},
+			{
+				"NombreCancion": "prueba2",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/come_as_you_are.m3u8"
+			},
+			{
+				"NombreCancion": "prueba3",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/drain_you.m3u8"
+			},
+			{
+				"NombreCancion": "prueba4",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/in_bloom"
+			},
+			{
+				"NombreCancion": "prueba5",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/lithium.m3u8"
+			},
+			{
+				"NombreCancion": "prueba6",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/lounge_act.m3u8"
+			},
+			{
+				"NombreCancion": "prueba7",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/on_a_plain.m3u8"
+			},
+			{
+				"NombreCancion": "prueba8",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/polly.m3u8"
+			},
+			{
+				"NombreCancion": "prueba9",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/smells_like_teen_spirit.m3u8"
+			},
+			{
+				"NombreCancion": "prueba10",
+				"Link": "http://192.168.56.1:8080WebServicess/albums/Nevermind/something_in_the_way.m3u8"
+			},
+			{
+				"NombreCancion": "prueba111",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/stay_away.m3u8"
+			}
+		]
+	},
+	{
+		"IdAlbum": 11,
+		"Titulo": "The Sound of the 19th Season",
+		"Genero": "House",
+		"Artista": "Sven Vath",
+		"Portada": "http://192.168.56.1:8080/WebServicess/albums/The Sound of the 19th Season/sven vath.jpg",
+			"listaCanciones": [
+			{
+				"NombreCancion": "prueba1",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/Breed.m3u8"
+			},
+			{
+				"NombreCancion": "prueba2",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/come_as_you_are.m3u8"
+			},
+			{
+				"NombreCancion": "prueba3",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/drain_you.m3u8"
+			},
+			{
+				"NombreCancion": "prueba4",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/in_bloom"
+			},
+			{
+				"NombreCancion": "prueba5",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/lithium.m3u8"
+			},
+			{
+				"NombreCancion": "prueba6",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/lounge_act.m3u8"
+			},
+			{
+				"NombreCancion": "prueba7",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/on_a_plain.m3u8"
+			},
+			{
+				"NombreCancion": "prueba8",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/polly.m3u8"
+			},
+			{
+				"NombreCancion": "prueba9",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/smells_like_teen_spirit.m3u8"
+			},
+			{
+				"NombreCancion": "prueba10",
+				"Link": "http://192.168.56.1:8080WebServicess/albums/Nevermind/something_in_the_way.m3u8"
+			},
+			{
+				"NombreCancion": "prueba111",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/stay_away.m3u8"
+			}
+		]
+	},
+	{
+		"IdAlbum": 12,
+		"Titulo": "Listen",
+		"Genero": "House",
+		"Artista": "David Guetta",
+		"Portada": "http://192.168.56.1:8080/WebServicess/albums/Listen/davidguetta.jpg",
+			"listaCanciones": [
+			{
+				"NombreCancion": "prueba1",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/Breed.m3u8"
+			},
+			{
+				"NombreCancion": "prueba2",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/come_as_you_are.m3u8"
+			},
+			{
+				"NombreCancion": "prueba3",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/drain_you.m3u8"
+			},
+			{
+				"NombreCancion": "prueba4",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/in_bloom"
+			},
+			{
+				"NombreCancion": "prueba5",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/lithium.m3u8"
+			},
+			{
+				"NombreCancion": "prueba6",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/lounge_act.m3u8"
+			},
+			{
+				"NombreCancion": "prueba7",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/on_a_plain.m3u8"
+			},
+			{
+				"NombreCancion": "prueba8",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/polly.m3u8"
+			},
+			{
+				"NombreCancion": "prueba9",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/smells_like_teen_spirit.m3u8"
+			},
+			{
+				"NombreCancion": "prueba10",
+				"Link": "http://192.168.56.1:8080WebServicess/albums/Nevermind/something_in_the_way.m3u8"
+			},
+			{
+				"NombreCancion": "prueba111",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/stay_away.m3u8"
+			}
+		]
+	},
+	{
+		"IdAlbum": 13,
+		"Titulo": "Million Dollar Baby",
+		"Genero": "Trap",
+		"Artista": "Cecilio G",
+		"Portada": "http://192.168.56.1:8080/WebServicess/albums/Million Dollar Baby/cecilio.jpeg",
+			"listaCanciones": [
+			{
+				"NombreCancion": "prueba1",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/Breed.m3u8"
+			},
+			{
+				"NombreCancion": "prueba2",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/come_as_you_are.m3u8"
+			},
+			{
+				"NombreCancion": "prueba3",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/drain_you.m3u8"
+			},
+			{
+				"NombreCancion": "prueba4",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/in_bloom"
+			},
+			{
+				"NombreCancion": "prueba5",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/lithium.m3u8"
+			},
+			{
+				"NombreCancion": "prueba6",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/lounge_act.m3u8"
+			},
+			{
+				"NombreCancion": "prueba7",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/on_a_plain.m3u8"
+			},
+			{
+				"NombreCancion": "prueba8",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/polly.m3u8"
+			},
+			{
+				"NombreCancion": "prueba9",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/smells_like_teen_spirit.m3u8"
+			},
+			{
+				"NombreCancion": "prueba10",
+				"Link": "http://192.168.56.1:8080WebServicess/albums/Nevermind/something_in_the_way.m3u8"
+			},
+			{
+				"NombreCancion": "prueba111",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/stay_away.m3u8"
+			}
+		]
+	},
+	{
+		"IdAlbum": 14,
+		"Titulo": "Melody",
+		"Genero": "House",
+		"Artista": "Dimitri Vegas",
+		"Portada": "http://192.168.56.1:8080/WebServicess/albums/Melody/dimitri vegas.jpg",
+			"listaCanciones": [
+			{
+				"NombreCancion": "prueba1",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/Breed.m3u8"
+			},
+			{
+				"NombreCancion": "prueba2",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/come_as_you_are.m3u8"
+			},
+			{
+				"NombreCancion": "prueba3",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/drain_you.m3u8"
+			},
+			{
+				"NombreCancion": "prueba4",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/in_bloom"
+			},
+			{
+				"NombreCancion": "prueba5",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/lithium.m3u8"
+			},
+			{
+				"NombreCancion": "prueba6",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/lounge_act.m3u8"
+			},
+			{
+				"NombreCancion": "prueba7",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/on_a_plain.m3u8"
+			},
+			{
+				"NombreCancion": "prueba8",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/polly.m3u8"
+			},
+			{
+				"NombreCancion": "prueba9",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/smells_like_teen_spirit.m3u8"
+			},
+			{
+				"NombreCancion": "prueba10",
+				"Link": "http://192.168.56.1:8080WebServicess/albums/Nevermind/something_in_the_way.m3u8"
+			},
+			{
+				"NombreCancion": "prueba111",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/stay_away.m3u8"
+			}
+		]
+	},
+	{
+		"IdAlbum": 15,
+		"Titulo": "FIN",
+		"Genero": "Trap",
+		"Artista": "Cecilio G",
+		"Portada": "http://192.168.56.1:8080/WebServicess/albums/FIN/cecilo g 2.jpg",
+			"listaCanciones": [
+			{
+				"NombreCancion": "prueba1",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/Breed.m3u8"
+			},
+			{
+				"NombreCancion": "prueba2",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/come_as_you_are.m3u8"
+			},
+			{
+				"NombreCancion": "prueba3",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/drain_you.m3u8"
+			},
+			{
+				"NombreCancion": "prueba4",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/in_bloom"
+			},
+			{
+				"NombreCancion": "prueba5",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/lithium.m3u8"
+			},
+			{
+				"NombreCancion": "prueba6",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/lounge_act.m3u8"
+			},
+			{
+				"NombreCancion": "prueba7",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/on_a_plain.m3u8"
+			},
+			{
+				"NombreCancion": "prueba8",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/polly.m3u8"
+			},
+			{
+				"NombreCancion": "prueba9",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/smells_like_teen_spirit.m3u8"
+			},
+			{
+				"NombreCancion": "prueba10",
+				"Link": "http://192.168.56.1:8080WebServicess/albums/Nevermind/something_in_the_way.m3u8"
+			},
+			{
+				"NombreCancion": "prueba111",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/stay_away.m3u8"
+			}
+		]
+	},
+	{
+		"IdAlbum": 16,
+		"Titulo": "Dummy Boy",
+		"Genero": "Trap",
+		"Artista": "6ix9ine",
+		"Portada": "http://192.168.56.1:8080/WebServicess/albums/Dummy Boy/sixnine.jpg",
+			"listaCanciones": [
+			{
+				"NombreCancion": "prueba1",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/Breed.m3u8"
+			},
+			{
+				"NombreCancion": "prueba2",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/come_as_you_are.m3u8"
+			},
+			{
+				"NombreCancion": "prueba3",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/drain_you.m3u8"
+			},
+			{
+				"NombreCancion": "prueba4",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/in_bloom"
+			},
+			{
+				"NombreCancion": "prueba5",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/lithium.m3u8"
+			},
+			{
+				"NombreCancion": "prueba6",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/lounge_act.m3u8"
+			},
+			{
+				"NombreCancion": "prueba7",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/on_a_plain.m3u8"
+			},
+			{
+				"NombreCancion": "prueba8",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/polly.m3u8"
+			},
+			{
+				"NombreCancion": "prueba9",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/smells_like_teen_spirit.m3u8"
+			},
+			{
+				"NombreCancion": "prueba10",
+				"Link": "http://192.168.56.1:8080WebServicess/albums/Nevermind/something_in_the_way.m3u8"
+			},
+			{
+				"NombreCancion": "prueba111",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/stay_away.m3u8"
+			}
+		]
+	},
+	{
+		"IdAlbum": 17,
+		"Titulo": "Repentless",
+		"Genero": "Heavy-Metal",
+		"Artista": "Slayer",
+		"Portada": "http://192.168.56.1:8080/WebServicess/albums/Repentless/slayer.jpg",
+			"listaCanciones": [
+			{
+				"NombreCancion": "prueba1",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/Breed.m3u8"
+			},
+			{
+				"NombreCancion": "prueba2",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/come_as_you_are.m3u8"
+			},
+			{
+				"NombreCancion": "prueba3",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/drain_you.m3u8"
+			},
+			{
+				"NombreCancion": "prueba4",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/in_bloom"
+			},
+			{
+				"NombreCancion": "prueba5",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/lithium.m3u8"
+			},
+			{
+				"NombreCancion": "prueba6",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/lounge_act.m3u8"
+			},
+			{
+				"NombreCancion": "prueba7",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/on_a_plain.m3u8"
+			},
+			{
+				"NombreCancion": "prueba8",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/polly.m3u8"
+			},
+			{
+				"NombreCancion": "prueba9",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/smells_like_teen_spirit.m3u8"
+			},
+			{
+				"NombreCancion": "prueba10",
+				"Link": "http://192.168.56.1:8080WebServicess/albums/Nevermind/something_in_the_way.m3u8"
+			},
+			{
+				"NombreCancion": "prueba111",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/stay_away.m3u8"
+			}
+		]
+	},
+	{
+		"IdAlbum": 18,
+		"Titulo": "Piece of Mind",
+		"Genero": "Heavy-Metal",
+		"Artista": "Iron Maiden",
+		"Portada": "http://192.168.56.1:8080/WebServicess/albums/Piece of mind/iron maiden.jpg",
+			"listaCanciones": [
+			{
+				"NombreCancion": "prueba1",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/Breed.m3u8"
+			},
+			{
+				"NombreCancion": "prueba2",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/come_as_you_are.m3u8"
+			},
+			{
+				"NombreCancion": "prueba3",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/drain_you.m3u8"
+			},
+			{
+				"NombreCancion": "prueba4",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/in_bloom"
+			},
+			{
+				"NombreCancion": "prueba5",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/lithium.m3u8"
+			},
+			{
+				"NombreCancion": "prueba6",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/lounge_act.m3u8"
+			},
+			{
+				"NombreCancion": "prueba7",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/on_a_plain.m3u8"
+			},
+			{
+				"NombreCancion": "prueba8",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/polly.m3u8"
+			},
+			{
+				"NombreCancion": "prueba9",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/smells_like_teen_spirit.m3u8"
+			},
+			{
+				"NombreCancion": "prueba10",
+				"Link": "http://192.168.56.1:8080WebServicess/albums/Nevermind/something_in_the_way.m3u8"
+			},
+			{
+				"NombreCancion": "prueba111",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/stay_away.m3u8"
+			}
+		]
+	},
+	{
+		"IdAlbum": 19,
+		"Titulo": "Parachutes",
+		"Genero": "Pop",
+		"Artista": "Coldplay",
+		"Portada": "http://192.168.56.1:8080/WebServicess/albums/Parachutes/clodplay.jpg",
+			"listaCanciones": [
+			{
+				"NombreCancion": "prueba1",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/Breed.m3u8"
+			},
+			{
+				"NombreCancion": "prueba2",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/come_as_you_are.m3u8"
+			},
+			{
+				"NombreCancion": "prueba3",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/drain_you.m3u8"
+			},
+			{
+				"NombreCancion": "prueba4",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/in_bloom"
+			},
+			{
+				"NombreCancion": "prueba5",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/lithium.m3u8"
+			},
+			{
+				"NombreCancion": "prueba6",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/lounge_act.m3u8"
+			},
+			{
+				"NombreCancion": "prueba7",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/on_a_plain.m3u8"
+			},
+			{
+				"NombreCancion": "prueba8",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/polly.m3u8"
+			},
+			{
+				"NombreCancion": "prueba9",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/smells_like_teen_spirit.m3u8"
+			},
+			{
+				"NombreCancion": "prueba10",
+				"Link": "http://192.168.56.1:8080WebServicess/albums/Nevermind/something_in_the_way.m3u8"
+			},
+			{
+				"NombreCancion": "prueba111",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/stay_away.m3u8"
+			}
+		]
+	},
+	{
+		"IdAlbum": 20,
+		"Titulo": "Dangerous",
+		"Genero": "Pop",
+		"Artista": "Michael Jackson",
+		"Portada": "http://192.168.56.1:8080/WebServicess/albums/Dangerous/michael jackson.jpg",
+			"listaCanciones": [
+			{
+				"NombreCancion": "prueba1",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/Breed.m3u8"
+			},
+			{
+				"NombreCancion": "prueba2",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/come_as_you_are.m3u8"
+			},
+			{
+				"NombreCancion": "prueba3",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/drain_you.m3u8"
+			},
+			{
+				"NombreCancion": "prueba4",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/in_bloom"
+			},
+			{
+				"NombreCancion": "prueba5",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/lithium.m3u8"
+			},
+			{
+				"NombreCancion": "prueba6",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/lounge_act.m3u8"
+			},
+			{
+				"NombreCancion": "prueba7",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/on_a_plain.m3u8"
+			},
+			{
+				"NombreCancion": "prueba8",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/polly.m3u8"
+			},
+			{
+				"NombreCancion": "prueba9",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/smells_like_teen_spirit.m3u8"
+			},
+			{
+				"NombreCancion": "prueba10",
+				"Link": "http://192.168.56.1:8080WebServicess/albums/Nevermind/something_in_the_way.m3u8"
+			},
+			{
+				"NombreCancion": "prueba111",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/stay_away.m3u8"
+			}
+		]
+	},
+	{
+		"IdAlbum": 21,
+		"Titulo": "Jazz in da house",
+		"Genero": "Jazz",
+		"Artista": "Jazz",
+		"Portada": "http://192.168.56.1:8080/WebServicess/albums/Jazz in da house/jazz.jpg",
+			"listaCanciones": [
+			{
+				"NombreCancion": "prueba1",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/Breed.m3u8"
+			},
+			{
+				"NombreCancion": "prueba2",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/come_as_you_are.m3u8"
+			},
+			{
+				"NombreCancion": "prueba3",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/drain_you.m3u8"
+			},
+			{
+				"NombreCancion": "prueba4",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/in_bloom"
+			},
+			{
+				"NombreCancion": "prueba5",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/lithium.m3u8"
+			},
+			{
+				"NombreCancion": "prueba6",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/lounge_act.m3u8"
+			},
+			{
+				"NombreCancion": "prueba7",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/on_a_plain.m3u8"
+			},
+			{
+				"NombreCancion": "prueba8",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/polly.m3u8"
+			},
+			{
+				"NombreCancion": "prueba9",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/smells_like_teen_spirit.m3u8"
+			},
+			{
+				"NombreCancion": "prueba10",
+				"Link": "http://192.168.56.1:8080WebServicess/albums/Nevermind/something_in_the_way.m3u8"
+			},
+			{
+				"NombreCancion": "prueba111",
+				"Link": "http://192.168.56.1:8080/WebServicess/albums/Nevermind/stay_away.m3u8"
+			}
+		]
+	}
+]

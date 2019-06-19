@@ -1,0 +1,164 @@
+[
+	{
+		"IdPelicula": 1,
+		"Titulo": "El Francotirador",
+		"Genero": "Drama",
+		"Descripcion": "El francotirador y SEAL de la Armada estadounidense Chris Kyle salva muchas vidas en los campos de batalla en Irak mientras se esfuerza por ser un buen marido y padre con sus seres queridos de regreso en Estados Unidos.",
+		"Director": "Clint Eastwood",
+		"Portada": "http://192.168.56.1:8080/WebServicess/peliculas/El_Francotirador/El_Francotirador_portada.jpg",
+		"Link": "http://192.168.56.1:8080/WebServicess/peliculas/El_Francotirador/El_Francotirador.m3u8"
+	},
+	{
+		"IdPelicula": 2,
+		"Titulo": "Origen",
+		"Genero": "Suspense",
+		"Descripcion": "Dom Cobb es un ladron con una extraña habilidad para entrar a los sueños de la gente y robarles los secretos de sus subconscientes. Su habilidad lo ha vuelto muy popular en el mundo del espionaje corporativo, pero ha tenido un gran costo en la gente que ama.",
+		"Director": "Christopher Nolan",
+		"Portada": "http://192.168.56.1:8080/WebServicess/peliculas/Origen/Origen_portada.jpg",
+		"Link": "http://192.168.56.1:8080/WebServicess/Origen/Origen.m3u8"
+	},
+	{
+		"IdPelicula": 3,
+		"Titulo": "El Caballero Oscuro",
+		"Genero": "Accion",
+		"Descripcion": "Batman tiene que mantener el equilibrio entre el heroismo y el vigilantismo para pelear contra un vil criminal conocido como el Joker, que pretende sumir Gotham en la anarquia.",
+		"Director": "Christopher Nolan",
+		"Portada": "http://192.168.56.1:8080/WebServicess/peliculas/El_caballero_oscuro/El_caballero_oscuro.jpg",
+		"Link": "http://192.168.56.1:8080/WebServicess/peliculas/El_caballero_oscuro/El_Caballero_Oscuro.m3u8"
+	},
+	{
+		"IdPelicula": 4,
+		"Titulo": "La Leyenda Renace",
+		"Genero": "Accion",
+		"Descripcion": "Ocho anos despues de asumir la culpa por la muerte de Harvey Dent y desaparecer en la noche, Batman debe salir del exilio autoimpuesto por una ladrona astuta y un terrorista despiadado llamado Bane.",
+		"Director": "Christopher Nolan",
+		"Portada": "http://192.168.56.1:8080/WebServicess/peliculas/El_caballero_oscuro_la_leyenda_renace/El_Caballero_Oscuro_La_Leyenda_Renace_portada.jpg",
+		"Link": "http://192.168.56.1:8080/WebServicess/peliculas/El_caballero_oscuro_la_leyenda_renace/El_Caballero_Oscuro_La_leyenda_Renace.m3u8"
+	},
+	{
+		"IdPelicula": 5,
+		"Titulo": "Interstellar",
+		"Genero": "Ciencia Ficcion",
+		"Descripcion": "Gracias a un descubrimiento, un grupo de científicos y exploradores, encabezados por Cooper, se embarcan en un viaje espacial para encontrar un lugar con las condiciones necesarias para reemplazar a la Tierra y comenzar una nueva vida allá.",
+		"Director": "Christopher Nolan",
+		"Portada": "http://192.168.56.1:8080/WebServicess/peliculas/Interstellar/Interstellar_portada.jpg",
+		"Link": "http://192.168.56.1:8080/WebServicess/peliculas/Interstellar/interstellar.m3u8"
+	},
+	{
+		"IdPelicula": 6,
+		"Titulo": "Los Vengadores: Infinity War",
+		"Genero": "Ciencia Ficcion",
+		"Descripcion": "Los superheroes se arman para vencer al poderoso Thanos, el peor enemigo al que se han enfrentado. Si Thanos logra reunir las seis gemas del infinito: poder, tiempo, alma, realidad, mente y espacio, nadie podra detenerlo.",
+		"Director": "Anthony Russo, Joe Russo",
+		"Portada": "http://192.168.56.1:8080/WebServicess/peliculas/Los_vengadores_Infinity_war/vengadores_portada.jpg",
+		"Link": "http://localhost:8080/WebServicess/peliculas/Los_vengadores_Infinity_war/vengadores.m3u8"
+	},
+	{
+		"IdPelicula": 7,
+		"Titulo": "127 horas",
+		"Genero": "Drama",
+		"Descripcion": "Basada en un caso real, nos cuenta la historia de Aron Ralston, un aventurero que exploraba el cañón de Blue John, cerca de Moab, Utah, cuando un peñasco se desplomó de la montaña y le aplastó impidiendo todos sus movimientos. Después de cinco días intentando levantar o romper la piedra que atoraba su antebrazo, Ralston se mantuvo con vida gracias a su propia orina hasta que pensó que moriría. Entonces, grabó con su cámara de vídeo un emotivo adiós para su familia hasta que, de pronto, decidió hacer un último esfuerzo. El afán de supervivencia se apoderá de él y, sin pensárselo dos veces, rompió su radio y su cúbito con una roca y se cortó los músculos y la carne con una navaja. Todo para seguir con vida.",
+		"Director": "Danny Boyle",
+		"Portada": "http://192.168.56.1:8080/WebServicess/peliculas/127_horas/127horas.jpg",
+		"Link": "http://localhost:8080/WebServicess/peliculas/Los_vengadores_Infinity_war/vengadores.m3u8"
+	},
+	{
+		"IdPelicula": 8,
+		"Titulo": "300",
+		"Genero": "Accion",
+		"Descripcion": "En el aÃƒÂ±o 480 antes de Cristo, existe un estado de guerra entre Persia, dirigida por el rey Jerjes, y Grecia. En la batalla de la Termópilas, Leonidas, rey de la ciudad griega de Esparta, encabeza a sus 300 bravos soldados en contra del numeroso ejército persa. A pesar de que la muerte aguarda a los espartanos, su sacrificio inspira a toda Grecia para unirla en contra de su enemigo común.",
+		"Director": "Zack Snyder",
+		"Portada": "http://192.168.56.1:8080/WebServicess/peliculas/300/300.jpg",
+		"Link": "http://localhost:8080/WebServicess/peliculas/Los_vengadores_Infinity_war/vengadores.m3u8"
+	},
+	{
+		"IdPelicula": 9,
+		"Titulo": "Apocalypto",
+		"Genero": "Suspense",
+		"Descripcion": "Mientras la oscuridad cae sobre lo que alguna vez fue la gran civilización maya, un hombre cautivo hace un intento desesperado por escapar de la brutal tribu que planea usarlo como un sacrificio humano. Si él logra sobrevivir, regresará con su familia y con la mujer que ama.",
+		"Director": "Mel Gibson",
+		"Portada": "http://192.168.56.1:8080/WebServicess/peliculas/Apocalypto/apocalypto.jpg",
+		"Link": "http://localhost:8080/WebServicess/peliculas/Los_vengadores_Infinity_war/vengadores.m3u8"
+	},
+	{
+		"IdPelicula": 10,
+		"Titulo": "Dragon Ball Broly",
+		"Genero": "Ciencia Ficcion",
+		"Descripcion": "Después de disputarse el Torneo de la Fuerza, la Tierra se encuentra en paz. Goku al darse cuenta de que en el universo aún hay personas extremadamente fuertes, continúa entrenando para volverse más fuerte. Pero un día, Freezer aparece en la Tierra con un misterioso saiyajin llamado Broly, el cuál enfrenta a Goku y Vegeta. La primera parte de esta película está basada en el manga Dragon Ball Minus, el cual cuenta el origen de Goku y cómo llegá a la Tierra.",
+		"Director": "Akira Toriyama",
+		"Portada": "http://192.168.56.1:8080/WebServicess/peliculas/Dragon_Ball_Broly/dragonballbroly.jpg",
+		"Link": "http://localhost:8080/WebServicess/peliculas/Los_vengadores_Infinity_war/vengadores.m3u8"
+	},
+	{
+		"IdPelicula": 11,
+		"Titulo": "El gran Lebowsky",
+		"Genero": "Comedia",
+		"Descripcion": "Un desempleado es confundido por unos matones con el millonario Jeff Lebowski, quien se llama igual que él y a cuya esposa han secuestrado. Cuando acude a casa del millonario para quejarse, éste decide contratarlo para rescatar a su esposa a cambio de una recompensa",
+		"Director": "Hermanos Coen",
+		"Portada": "http://192.168.56.1:8080/WebServicess/peliculas/EL_gran_lebowsky/El_gran_lebowsky.jpg",
+		"Link": "http://localhost:8080/WebServicess/peliculas/Los_vengadores_Infinity_war/vengadores.m3u8"
+	},
+	{
+		"IdPelicula": 12,
+		"Titulo": "La La Land",
+		"Genero": "Musical",
+		"Descripcion": "Sebastian, un pianista de jazz, y Mia, una aspirante a actriz, se enamoran locamente; pero la ambición desmedida que tienen por triunfar en sus respectivas carreras, en una ciudad como Los Ángeles, repleta de competencia y carente de piedad, pone en peligro su amor.",
+		"Director": "Damian Chazelle",
+		"Portada": "http://192.168.56.1:8080/WebServicess/peliculas/lalaland/lalaland.jpg",
+		"Link": "http://localhost:8080/WebServicess/peliculas/Los_vengadores_Infinity_war/vengadores.m3u8"
+	},
+	{
+		"IdPelicula": 13,
+		"Titulo": "Los miserables",
+		"Genero": "Musical",
+		"Descripcion": "Los miserables (título original en francés: Les misárables) es una novela del político, poeta y escritor francés Victor Hugo publicada en 1862, considerada como una de las obras más importantes del siglo XIX. La novela, de estilo romántico, plantea a través de su argumento un razonamiento sobre el bien y el mal, sobre la ley, la política, la ética, la justicia y la religión. El autor confesó que se había inspirado en Vidocq, criminal francés que se redimió y acabó inaugurando la Policía Nacional francesa, para crear a los dos protagonistas y que la historia de su país le habia inspirado para situar el contexto histérico: por ello, los personajes viven la Rebelión de junio (1832) y los posteriores cambios políticos. Además, el autor analiza los estereotipos de aquel momento y muestra su oposición a la pena de muerte. En su núleo, al fin, la novela sirve como una defensa de los oprimidos sea cual sea el lugar o situación sociohistórica que vivan.",
+		"Director": "Tom Hopper",
+		"Portada": "http://192.168.56.1:8080/WebServicess/peliculas/losmiserables/Losmiserables.jpg",
+		"Link": "http://localhost:8080/WebServicess/peliculas/Los_vengadores_Infinity_war/vengadores.m3u8"
+	},
+	{
+		"IdPelicula": 14,
+		"Titulo": "Pesadillas",
+		"Genero": "Terror",
+		"Descripcion": "Zach llega a un pequeño y aburrido pueblo, donde pronto hace amistad con la vecina. Descubre que su padre es el escrito R. L. Stine, autor de los libros de terror Escalofríos, y que todos los monstruos que Stine describió en sus obras son reales. Estos seres diabólicos escapan y, ahora, con la ayuda del propio escritor, de su hija y de un amigo, intentará de encerrarlos de nuevo. ",
+		"Director": "Rob Letterman",
+		"Portada": "http://192.168.56.1:8080/WebServicess/peliculas/Pesadillas/Pesadillas.jpg",
+		"Link": "http://localhost:8080/WebServicess/peliculas/Los_vengadores_Infinity_war/vengadores.m3u8"
+	},
+	{
+		"IdPelicula": 15,
+		"Titulo": "Thor",
+		"Genero": "Accion",
+		"Descripcion": "Tras desatar una antigua guerra, el codicioso guerrero Thor es desterrado a la Tierra por su padre para que viva entre los hombres y descubra asÃƒÂ­ el verdadero sentido de la humildad. AllÃƒÂ­, sin sus poderes, Thor deberÃƒÂ¡ enfrentarse a las fuerzas más oscuras que su mayor enemigo le enviará desde Asgard.",
+		"Director": "Rob Letterman",
+		"Portada": "http://192.168.56.1:8080/WebServicess/peliculas/Thor/thor.jpg",
+		"Link": "http://localhost:8080/WebServicess/peliculas/Los_vengadores_Infinity_war/vengadores.m3u8"
+	},
+	{
+		"IdPelicula": 16,
+		"Titulo": "Titanic",
+		"Genero": "Drama",
+		"Descripcion": "Titanic es una película estadounidense dramática sobre la catástrofe de 1997 dirigida y escrita por James Cameron y protagonizada por Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates, Gloria Stuart y Bill Paxton.",
+		"Director": "James Carmeron",
+		"Portada": "http://192.168.56.1:8080/WebServicess/peliculas/Titanic/titanic.jpg",
+		"Link": "http://localhost:8080/WebServicess/peliculas/Los_vengadores_Infinity_war/vengadores.m3u8"
+	},
+	{
+		"IdPelicula": 17,
+		"Titulo": "Venom",
+		"Genero": "Suspense",
+		"Descripcion": "El periodista Eddie Brock está investigando a Carlton Drake, el célebre fundador de Life Foundation. Brock establece una simbiosis con un ente alienígena que le ofrece superpoderes, pero el ser se apodera de su personalidad y lo vuelve perverso.",
+		"Director": "Ruben Fleischer",
+		"Portada": "http://192.168.56.1:8080/WebServicess/peliculas/Venom/venom.jpg",
+		"Link": "http://localhost:8080/WebServicess/peliculas/Los_vengadores_Infinity_war/vengadores.m3u8"
+	},
+	{
+		"IdPelicula": 18,
+		"Titulo": "Watchmen",
+		"Genero": "Suspense",
+		"Descripcion": "Después de que su excolega es asesinado, un vigilante enmascarado descubre un plan para desacreditar y destruir a los superhéroes del mundo..",
+		"Director": "Zack Snyder",
+		"Portada": "http://192.168.56.1:8080/WebServicess/peliculas/Watchmen/watchmen.jpg",
+		"Link": "http://localhost:8080/WebServicess/peliculas/Los_vengadores_Infinity_war/vengadores.m3u8"
+	}
+]
